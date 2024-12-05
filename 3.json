@@ -1,1 +1,13 @@
-
+{
+    "Jawa": {
+      "Jakarta": ["Bandung", "Depok", "Tangerang"],
+      "Bandung": ["Jakarta", "Cirebon", "Garut"],
+      "Tangerang": ["Jakarta", "Serpong"],
+      "Cirebon": ["Bandung", "Semarang"]
+    },
+    "Sumatra": {
+      "Medan": ["Pekanbaru", "Padang"],
+      "Pekanbaru": ["Medan", "Jambi"]
+    }
+  }
+  
